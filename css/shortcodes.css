@@ -751,7 +751,7 @@
 .team-content h3 span {
 	display: block;
 	color: #777;
-	text-transform: lowercase;
+	text-transform: capitalize;
 }
 .team-member:hover .team-content {
 	background-color: #1377c5;
